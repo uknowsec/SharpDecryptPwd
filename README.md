@@ -45,4 +45,5 @@ Usage: SharpDecryptPwd.exe -NavicatCrypto
 
 ## Reference: 
 https://www.t00ls.net/viewthread.php?tid=30146&highlight=WinSCP
+
 https://rcoil.me/2019/09/SharpDecryptPwd/
