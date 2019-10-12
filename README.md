@@ -29,10 +29,6 @@ Usage: SharpDecryptPwd.exe -NavicatCrypto
 ```
 ![](https://github.com/uknowsec/SharpDecryptPwd/blob/master/NavicatCrypto.png)
 
-```
-> SharpDecryptPwd.exe -NavicatCrypto
-```
-![](https://github.com/uknowsec/SharpDecryptPwd/blob/master/NavicatCrypto.png)
 
 ```
 > SharpDecryptPwd.exe -FileZilla
