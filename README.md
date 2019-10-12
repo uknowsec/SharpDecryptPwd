@@ -36,8 +36,10 @@ Usage: SharpDecryptPwd.exe -NavicatCrypto
 ![](https://github.com/uknowsec/SharpDecryptPwd/blob/master/FTP.png)
 
 ```
-SharpDecryptPwd.exe -Xmangager -p D:\xshell\Xshell\Sessions
+> SharpDecryptPwd.exe -Xmangager -p D:\xshell\Xshell\Sessions
 ```
 ![](https://github.com/uknowsec/SharpDecryptPwd/blob/master/Xshell.png)
 
-#Reference: https://rcoil.me/2019/09/SharpDecryptPwd/
+#Reference: 
+https://www.t00ls.net/viewthread.php?tid=30146&highlight=WinSCP
+https://rcoil.me/2019/09/SharpDecryptPwd/
