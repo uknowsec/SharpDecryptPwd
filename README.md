@@ -4,7 +4,7 @@
 
 昨天看到[Rcoil](https://rcoil.me)师傅的文章[SharpDecryptPwd](https://rcoil.me/2019/09/SharpDecryptPwd/)
 给出了实现思路，但是没有给出代码，所以自己跟着文章写了一个。
-对密码已保存在 Windwos 系统上的部分程序进行解析
+对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)。
 
 ## 使用方法
 
