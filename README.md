@@ -1,5 +1,9 @@
 # SharpDecryptPwd
-对密码已保存在 Windwos 系统上的部分程序进行解析          
+
+## 简介
+对密码已保存在 Windwos 系统上的部分程序进行解析
+
+## 使用方法
 
 ```
 > SharpDecryptPwd.exe
@@ -40,6 +44,6 @@ Usage: SharpDecryptPwd.exe -NavicatCrypto
 ```
 ![](https://github.com/uknowsec/SharpDecryptPwd/blob/master/Xshell.png)
 
-#Reference: 
+## Reference: 
 https://www.t00ls.net/viewthread.php?tid=30146&highlight=WinSCP
 https://rcoil.me/2019/09/SharpDecryptPwd/
