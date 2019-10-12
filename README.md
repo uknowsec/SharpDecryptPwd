@@ -1,6 +1,9 @@
 # SharpDecryptPwd
 
 ## 简介
+
+昨天看到rcoll师傅的文章[SharpDecryptPwd](https://rcoil.me/2019/09/SharpDecryptPwd/)
+给出了实现思路，但是没有给出代码，所以自己跟着文章写了一个。
 对密码已保存在 Windwos 系统上的部分程序进行解析
 
 ## 使用方法
