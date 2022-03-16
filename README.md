@@ -1,6 +1,6 @@
 # SharpDecryptPwd
 
-## 源码项目
+## 此项目不在更新，重构源码项目如下
 
 https://github.com/RowTeam/SharpDecryptPwd
 
